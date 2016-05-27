@@ -1,6 +1,6 @@
 # joshrepo
-this is a read me file for our term project
-atanda oluwasegun oluwashina
+~~this is a read me file for our term project
+atanda oluwasegun oluwashina~~
 2014210113
 PROJECT PROPOSAL FOR COMPUTER GRAPHICS- (TIZEN)
 MEMBERS(3)
@@ -27,3 +27,4 @@ the project is too basic and the TA wants us to add more features to the cube;
 therefore, I decided to make the cube look like the teapot in project three,
 giving it a new texture and making it like a game where the cube will explode if it is not alligned with a reference, i.e 
 for the cube to be alligned it has to be touched an d made to balance with a reference plane due to the calibration of the phone
+@joshkr1
