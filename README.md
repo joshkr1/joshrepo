@@ -22,3 +22,8 @@ OBJECTIVES
 •	Animating the cube,
 •	Implementing UI component interaction and implementing effects.
 
+5/27/2016. Atada O.
+the project is too basic and the TA wants us to add more features to the cube;
+therefore, I decided to make the cube look like the teapot in project three,
+giving it a new texture and making it like a game where the cube will explode if it is not alligned with a reference, i.e 
+for the cube to be alligned it has to be touched an d made to balance with a reference plane due to the calibration of the phone
